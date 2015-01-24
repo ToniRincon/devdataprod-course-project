@@ -2,11 +2,12 @@ Developing Data Products
 ========================
 
 Files submitted: 
+
 - ui.R
 - server.R
 - README.md
 
-Instructions
+Instructions:
 
 1. Clone the code to your directory using:
 https://github.com/ToniRincon/devdataprod-course-project.git YOURDIRECTORY'
@@ -15,8 +16,11 @@ https://github.com/ToniRincon/devdataprod-course-project.git YOURDIRECTORY'
 4.Run the application using runApp()
 5. The application will come in the browser. Use Chrome or Firefox Follow. through the instructions.
 
-Dependencies
+Dependencies:
+
 - Shiny library
 
-Apps location The application is deployed on ShinyApps.io at:
-http://suemo123.shinyapps.io/myapp
+Apps location:
+
+The application is deployed on ShinyApps.io at:
+http://ToniRincon.shinyapps.io/myapp
